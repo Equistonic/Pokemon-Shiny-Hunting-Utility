@@ -1,15 +1,7 @@
 # Pokemon-Shiny-Hunting-Utility
-A simple, in-progress Shiny Hunting Tool to help you keep track of your current progress in a shiny hunt in Pokemon games. More features will arrive through time, and UI will be improved to give the program flare.
 
+The Shiny Hunting Utility was made for ease of calculating the odds of getting a shiny Pokemon through a few methods, and tracking the progress of your hunts. This is a simple assisstant for hunters to use, and is very straight forward, but a Wiki located here on Github is being developed to assist those looking for an explanation and assistance.
 
-There is 3 Trackers to keep track of up to three on-going shiny hunts, or to keep a placemarker for when you got the shiny.
+Please report bugs as soon as you find them!
 
-Current Features:
--Three Shiny Trackers
--Shiny Probability Calculator (Based on Shiny Charm, Type of Hunt, etc.)
--SOS Chain Tracker
-
-Upcoming Features:
--Ultra Space Shiny Hunting Probability Calculator
--Ability to name Shiny Tracker
--Many More Features!
+~Atomic :)
